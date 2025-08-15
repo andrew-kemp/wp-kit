@@ -26,10 +26,12 @@ cat <<'EOF'
  | |_| |  __/ |_) | | (_) | |_| | | | | | |  __/ | | | |_  | (_>  < |  _ <  __/ (_| (_) \ V /  __/ |  | |_| |
  |____/ \___| .__/|_|\___/ \__, |_| |_| |_|\___|_| |_|\__|  \___/\/ |_| \_\___|\___\___/ \_/ \___|_|   \__, |
             |_|            |___/                                                                       |___/ 
+
+                                Automated WordPress Deployment & Recovery Kit
 EOF
 
 echo
-echo "Automated WordPress Deployment & Recovery Kit"
+
 echo
 echo "Please choose an option below:"
 echo "  1. WP DeployKit  - Install and configure WordPress on a new server or add additional sites to an existing server"
